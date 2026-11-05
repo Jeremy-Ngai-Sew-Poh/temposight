@@ -1,0 +1,6 @@
+{
+  "name": "TempoSight",
+  "description": "Precise, professional AI piano practice utility for beginner and intermediate musicians providing sight-reading diagnostics and practice strategies.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
